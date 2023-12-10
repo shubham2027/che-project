@@ -1,0 +1,153 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    display: flex;
+    background-color: green;
+}
+
+.logo {
+    width: 74px;
+    height: 100%;
+}
+
+.main1 {
+    margin-left: 20px;
+    margin-top: 17px;
+    margin-bottom: 18px;
+    height: 79px;
+    width: 74px;
+}
+
+.main2 {
+    color: white;
+    margin-top: 17px;
+    margin-bottom: 10px;
+    background-color: #005829;
+    width: 72px;
+    padding-top: 10px;
+    height: 69px;
+    margin-left: -2px;
+}
+
+.main3 {
+    margin-left: 128px;
+    margin-top: 32px;
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+    margin-bottom: 34px;
+    padding: 5px;
+}
+
+.main4 {
+    margin-left: 226px;
+    margin-top: 32px;
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+    margin-bottom: 34px;
+    padding: 5px;
+}
+
+.main5 {
+    margin-left: 226px;
+    margin-top: 32px;
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+    margin-bottom: 34px;
+    padding: 5px;
+}
+
+.main6 {
+    text-decoration: none;
+    color: #005829;
+    background-color: white;
+    margin-top: 29px;
+    font-size: x-large;
+    margin-bottom: 34px;
+    margin-left: 145px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: -5px 20px 50px #000;
+
+}
+
+.main3:hover,
+.main4:hover,
+.main5:hover {
+    color: green;
+    background-color: #fff;
+}
+
+section {
+    background-image: url(mainbackground.avif);
+    color: white;
+    height: 616px;
+}
+
+h1 {
+    margin: 0;
+    font-size: 81px;
+    padding-top: 180px;
+    padding-left: 310px;
+}
+
+.section1 {
+    margin-top: 0px;
+}
+
+.section21 {
+    display: flex;
+}
+
+.sec1 {
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    background-color: #32a832;
+    margin-left: 21%;
+    width: 25%;
+    padding: 1%;
+    border-radius: 9px;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.sec2 {
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    background-color: #32a832;
+    margin-left: 2%;
+    width: 15%;
+    border-radius: 9px;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 0;
+    padding-top: 28px;
+    padding-left: 160px;
+}
+
+.section22 {
+    font-size: 25px;
+    background-color: #32a832;
+    margin-left: 36%;
+    width: 19%;
+    padding: 1%;
+    border-radius: 9px;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 0;
+    margin-top: 20px;
+    height: 46px;
+    padding-top: 25px;
+    padding-left: 71px;
+    
+}
+.sec3{
+    text-decoration: none;
+    color: white;
+    
+}

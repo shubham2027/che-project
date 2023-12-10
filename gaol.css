@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 22px;
+    margin-left: 1%;
+    margin-right: 1%;
+    background-color: #b4e3ca;
+}
+.c1{
+    text-align: center;
+    color: white;
+    background-color: #005829;
+    margin-top: 0;
+    height: 55px;
+    font-size: 40px;
+}
+.c2{
+    font-size: 22px;
+  margin-top: -18px;
+  margin-left: 1%;
+  margin-right: 1%;
+}
+.c3{
+    font-size: 22px;
+  margin-left: 1%;
+  margin-right: 1%;
+}
+.ln{
+    text-decoration: none;
+}

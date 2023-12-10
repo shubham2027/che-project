@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 22px;
+    margin-left: 1%;
+    margin-right: 1%;
+    background-color: #b4e3ca;
+}
+.c1{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: white;
+    background-color: #005829;
+    margin-top: 0;
+    height: 55px;
+    font-size: 40px;
+}
+.c2{
+    display: flex;
+}
+img{
+    width: 100%;
+    margin-top: 5px;
+}
+.c3{
+    margin-left: 40px;
+    margin-right: 40px;
+  }
